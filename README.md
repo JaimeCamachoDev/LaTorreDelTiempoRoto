@@ -8,7 +8,7 @@ _**Proyecto VR DLuca Studio**_
 
 </header>
    
-<footer>l
+<footer>
 
 [PROYECTO SCAPEROOM VR.pdf](https://github.com/user-attachments/files/20495100/PROYECTO.SCAPEROOM.VR.pdf)
 
