@@ -1,33 +1,15 @@
 <header>
 
-![Banner](https://github.com/user-attachments/assets/5b933a56-0ece-452a-99c0-1a641485a6b9)
+![WhatsApp Image 2025-05-26 at 15 28 51](https://github.com/user-attachments/assets/b437fd46-684f-464e-afcc-bba0622b42ff)
 
 # **LaTorreDelTiempoRoto**
 
 _**Proyecto VR DLuca Studio**_
 
-
 </header>
    
-<footer>
-   
-## Después de crear el repositorio desde la plantilla, asegúrate de revisar lo siguiente:
+<footer>l
 
-### 📸 Social Preview
-- [ ] Sube una imagen `preview.png` personalizada en `Settings → Social Preview`.
-
-### ⚙️ Repository Features
-Desactiva funciones que no necesitas en `Settings → Features`:
-
-- [ ] Desactivar **Projects**
-- [ ] Desactivar **Wiki**
-- [ ] Desactivar **Packages**
-- [ ] Desactivar **Environments** (Deployments)
-- [ ] Confirmar que **Releases** sigue activado ✅
-
-### 🎨 Personalización visual
-- [ ] Cambiar imagen del banner de portada.
-- [ ] Dejar Topics necesarios.
-
+[PROYECTO SCAPEROOM VR.pdf](https://github.com/user-attachments/files/20495100/PROYECTO.SCAPEROOM.VR.pdf)
 
 </footer>
